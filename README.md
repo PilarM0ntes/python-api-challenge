@@ -30,7 +30,9 @@ The project is divided in 2 parts:
   Based on the list of cities generated in the WeatherPy project, a heatmap is created based on the himidity of each city. Additionally, a filtered city list is generated based on my weather preferences for my ideal vacation spot. Using the Google Places API, the program searches for a hotel within a 5000 meters radius of each of the cities coordinates (filtered list) and plots this information on top of the humidity heatmap.  
 ### Results
 Humidity Heatmap
+
 ![alt text](https://github.com/PilarM0ntes/python-api-challenge/blob/main/Images/heatmap.png)
 
 Humidity & Hotel location map
+
 ![alt_text](https://github.com/PilarM0ntes/python-api-challenge/blob/main/Images/heatmap_hotels.png)
